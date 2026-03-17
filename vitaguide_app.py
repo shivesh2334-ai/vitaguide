@@ -726,6 +726,30 @@ def render_input_form():
             "Other"
         ])
         
+        fish_intake = st.selectbox("Fish Intake (per week)", [
+            "2+ times/week",
+            "Once a week",
+            "Rarely (less than once a week)",
+            "Never/None"
+        ])
+        
+        dairy_intake = st.selectbox("Dairy Intake", [
+            "Daily",
+            "A few times/week",
+            "Rarely",
+            "Never/None"
+        ])
+        
+        iodized_salt = st.selectbox("Do you use iodized salt?", [
+            "Yes",
+            "No",
+            "Not sure"
+        ])
+        
+        heavy_periods = st.checkbox("Heavy periods (females only)")
+        
+        high_triglycerides = st.checkbox("Diagnosed with high triglycerides")
+        
         submitted = st.form_submit_button("Generate Recommendations")
         
         if submitted:
@@ -741,7 +765,12 @@ def render_input_form():
                 "vitamin_d_level": vitamin_d_level.lower().replace(" ", "_"),
                 "b12_level": b12_level.lower().replace(" ", "_"),
                 "iron_status": iron_status.lower(),
-                "medications": medications
+                "medications": medications,
+                "fish_intake": "none" if fish_intake == "Never/None" else fish_intake.lower(),
+                "dairy_intake": "none" if dairy_intake == "Never/None" else dairy_intake.lower(),
+                "iodized_salt": iodized_salt.lower().replace(" ", "_"),
+                "heavy_periods": heavy_periods,
+                "high_triglycerides": high_triglycerides
             }
     return None
 
