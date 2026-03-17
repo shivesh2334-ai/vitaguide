@@ -1,7 +1,4 @@
-# Create a COMPLETELY NEW clean file - no file writing code at all
-# Just the pure Streamlit application content
-
-streamlit_app_content = '''import streamlit as st
+import streamlit as st
 import pandas as pd
 import json
 from datetime import datetime
@@ -935,30 +932,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-'''
-
-# Save the completely clean file
-with open('/mnt/kimi/output/vitaguide_app.py', 'w') as f:
-    f.write(streamlit_app_content)
-
-print("✅ SUCCESS: Clean vitaguide_app.py created!")
-print(f"✅ Size: {len(streamlit_app_content)} characters")
-print("\n" + "="*70)
-print("🔧 TO FIX YOUR DEPLOYMENT:")
-print("="*70)
-print("""
-1. Go to your GitHub repository
-2. Open vitaguide_app.py
-3. Click 'Edit' (pencil icon)
-4. DELETE ALL CONTENT
-5. COPY AND PASTE the new content from below
-6. Commit the changes
-7. Streamlit Cloud will auto-redeploy
-
-OR
-
-1. Delete the repository
-2. Create a new one with the fixed files
-3. Redeploy on Streamlit Cloud
-""")
-print("="*70)
