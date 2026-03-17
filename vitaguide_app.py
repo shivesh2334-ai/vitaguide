@@ -1,6 +1,7 @@
+# Create a COMPLETELY NEW clean file - no file writing code at all
+# Just the pure Streamlit application content
 
-# Create the CLEAN Streamlit application (without file-writing code)
-clean_app_code = '''import streamlit as st
+streamlit_app_content = '''import streamlit as st
 import pandas as pd
 import json
 from datetime import datetime
@@ -67,14 +68,6 @@ st.markdown("""
     }
     .stButton>button:hover {
         background-color: #1B5E20;
-    }
-    .metric-card {
-        background-color: #ffffff;
-        border: 2px solid #e0e0e0;
-        border-radius: 10px;
-        padding: 1rem;
-        text-align: center;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
 </style>
 """, unsafe_allow_html=True)
@@ -623,7 +616,6 @@ class SupplementRecommender:
         
         return recs
 
-# Streamlit UI Functions
 def render_header():
     st.markdown('<div class="main-header">💊 VitaGuide AI</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-header">Evidence-Based Personalized Supplement & Diet Recommendations</div>', unsafe_allow_html=True)
@@ -916,14 +908,28 @@ if __name__ == "__main__":
     main()
 '''
 
-# Save the clean application
+# Save the completely clean file
 with open('/mnt/kimi/output/vitaguide_app.py', 'w') as f:
-    f.write(clean_app_code)
+    f.write(streamlit_app_content)
 
-print("✅ FIXED: Clean vitaguide_app.py created successfully!")
-print(f"✅ File size: {len(clean_app_code)} characters")
-print("\n📝 Changes made:")
-print("  - Removed all file-writing code")
-print("  - Removed IPython-specific commands")
-print("  - Application is now pure Streamlit code")
-print("  - Ready for deployment to Streamlit Cloud")
+print("✅ SUCCESS: Clean vitaguide_app.py created!")
+print(f"✅ Size: {len(streamlit_app_content)} characters")
+print("\n" + "="*70)
+print("🔧 TO FIX YOUR DEPLOYMENT:")
+print("="*70)
+print("""
+1. Go to your GitHub repository
+2. Open vitaguide_app.py
+3. Click 'Edit' (pencil icon)
+4. DELETE ALL CONTENT
+5. COPY AND PASTE the new content from below
+6. Commit the changes
+7. Streamlit Cloud will auto-redeploy
+
+OR
+
+1. Delete the repository
+2. Create a new one with the fixed files
+3. Redeploy on Streamlit Cloud
+""")
+print("="*70)
