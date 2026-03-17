@@ -1,7 +1,6 @@
 
 
-# Create comprehensive README.md
-readme = """# 💊 VitaGuide AI - Evidence-Based Supplement & Diet Advisor
+💊 VitaGuide AI - Evidence-Based Supplement & Diet Advisor
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-url-here)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
