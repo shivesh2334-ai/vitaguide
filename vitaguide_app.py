@@ -867,8 +867,23 @@ def render_educational_content():
         - Magnesium: 350 mg (supplements only)
         """)
 
+def render_indian_medicines():
+    from pathlib import Path
+    catalogue = json.loads((Path(__file__).parent / 'public' / 'indian-medicines.json').read_text())
+    with st.expander("Indian medicines & supplements — five examples per category"):
+        st.info("Reference examples only. Combination products are not interchangeable with single-nutrient treatment. Check exact pack and clinician-selected dose.")
+        query = st.text_input("Search Indian medicines").lower()
+        for category, data in catalogue.items():
+            if query and query not in json.dumps([category, data]).lower():
+                continue
+            st.subheader(category)
+            if data['note']:
+                st.warning(data['note'])
+            st.dataframe(pd.DataFrame(data['products']), use_container_width=True)
+
 def main():
     render_header()
+    render_indian_medicines()
     
     # Initialize recommender
     recommender = SupplementRecommender()

@@ -1,0 +1,922 @@
+{
+  "Vitamin A": {
+    "note": "All five are combination formulations containing this nutrient; these are not therapeutic single-nutrient substitutes. Check exact pack composition and clinician-selected dose.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Vitamin E": {
+    "note": "All five are combination formulations containing this nutrient; these are not therapeutic single-nutrient substitutes. Check exact pack composition and clinician-selected dose.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Thiamine (Vitamin B1)": {
+    "note": "All five are combination formulations containing this nutrient; these are not therapeutic single-nutrient substitutes. Check exact pack composition and clinician-selected dose.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Riboflavin (Vitamin B2)": {
+    "note": "All five are combination formulations containing this nutrient; these are not therapeutic single-nutrient substitutes. Check exact pack composition and clinician-selected dose.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Vitamin B6": {
+    "note": "All five are combination formulations containing this nutrient; these are not therapeutic single-nutrient substitutes. Check exact pack composition and clinician-selected dose.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Niacin (Vitamin B3)": {
+    "note": "All five are combination formulations containing this nutrient; these are not therapeutic single-nutrient substitutes. Check exact pack composition and clinician-selected dose.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "B-complex": {
+    "note": "All five are combination formulations containing this nutrient; these are not therapeutic single-nutrient substitutes. Check exact pack composition and clinician-selected dose.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Multivitamins": {
+    "note": "All five are combination formulations containing this nutrient; these are not therapeutic single-nutrient substitutes. Check exact pack composition and clinician-selected dose.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Vitamin D": {
+    "note": "60000 IU packs are high-dose treatments, not daily maintenance substitutes; clinician-directed use only.",
+    "products": [
+      {
+        "brand": "Uprise-D3 1K",
+        "composition": "Cholecalciferol 1000 IU",
+        "type": "Vitamin D3",
+        "source": "https://www.apollopharmacy.in/otc/uprise-d3-1k-softgel-capsule-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "D-Rise 2000",
+        "composition": "Cholecalciferol 2000 IU",
+        "type": "Vitamin D3",
+        "source": "https://www.apollopharmacy.in/HEALTH%20%26%20NUTRITION/VITAMIN%20D-productType",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Calcirol 60K sachet",
+        "composition": "Cholecalciferol 60000 IU",
+        "type": "High-dose vitamin D3",
+        "source": "https://www.apollopharmacy.in/HEALTH%20%26%20NUTRITION/VITAMIN%20D-productType",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Tayo 60K",
+        "composition": "Cholecalciferol 60000 IU",
+        "type": "High-dose vitamin D3",
+        "source": "https://www.apollopharmacy.in/otc/tayo-60k-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "DV 60K",
+        "composition": "Cholecalciferol 60000 IU",
+        "type": "High-dose vitamin D3",
+        "source": "https://www.apollopharmacy.in/HEALTH%20%26%20NUTRITION/VITAMIN%20D-productType",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Vitamin B12": {
+    "note": "",
+    "products": [
+      {
+        "brand": "Nurokind",
+        "composition": "Methylcobalamin 500 mcg tablet",
+        "type": "Vitamin B12",
+        "source": "https://www.1mg.com/drugs/nurokind-tablet-167487",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Mecofol",
+        "composition": "Methylcobalamin 500 mcg tablet",
+        "type": "Vitamin B12",
+        "source": "https://www.1mg.com/drugs/nurokind-tablet-167487",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Mecobel",
+        "composition": "Methylcobalamin 500 mcg tablet",
+        "type": "Vitamin B12",
+        "source": "https://www.1mg.com/drugs/nurokind-tablet-167487",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Methycobal",
+        "composition": "Methylcobalamin 500 mcg tablet",
+        "type": "Vitamin B12",
+        "source": "https://www.1mg.com/drugs/nurokind-tablet-167487",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Meconerv",
+        "composition": "Methylcobalamin 500 mcg tablet",
+        "type": "Vitamin B12",
+        "source": "https://www.1mg.com/drugs/nurokind-tablet-167487",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Folate / Folic acid": {
+    "note": "5 mg is a treatment/high-risk dose and does not equal the routine 400–800 mcg preconception dose. Exclude B12 deficiency when appropriate.",
+    "products": [
+      {
+        "brand": "Folvite",
+        "composition": "Folic acid 5 mg tablet",
+        "type": "High-dose folic acid",
+        "source": "https://www.1mg.com/drugs/folinal-5mg-tablet-453151",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Folizee",
+        "composition": "Folic acid 5 mg tablet",
+        "type": "High-dose folic acid",
+        "source": "https://www.1mg.com/drugs/folinal-5mg-tablet-453151",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Folitas",
+        "composition": "Folic acid 5 mg tablet",
+        "type": "High-dose folic acid",
+        "source": "https://www.1mg.com/drugs/folinal-5mg-tablet-453151",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Foligem",
+        "composition": "Folic acid 5 mg tablet",
+        "type": "High-dose folic acid",
+        "source": "https://www.1mg.com/drugs/folinal-5mg-tablet-453151",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Vitafol",
+        "composition": "Folic acid 5 mg tablet",
+        "type": "High-dose folic acid",
+        "source": "https://www.1mg.com/drugs/folinal-5mg-tablet-453151",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Iron": {
+    "note": "Elemental iron content differs by product; confirm deficiency and dose with a clinician.",
+    "products": [
+      {
+        "brand": "Orofer XT",
+        "composition": "Ferrous ascorbate + folic acid",
+        "type": "Combination",
+        "source": "https://www.apollopharmacy.in/HEALTH%20%26%20NUTRITION/IRON-productType",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Livogen XT",
+        "composition": "Iron + folic acid + zinc",
+        "type": "Combination",
+        "source": "https://www.apollopharmacy.in/HEALTH%20%26%20NUTRITION/IRON-productType",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Dexorange syrup",
+        "composition": "Iron + folic acid + B12",
+        "type": "Combination",
+        "source": "https://www.apollopharmacy.in/HEALTH%20%26%20NUTRITION/IRON-productType",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Fefol-Z",
+        "composition": "Iron + folic acid + zinc",
+        "type": "Combination",
+        "source": "https://www.apollopharmacy.in/HEALTH%20%26%20NUTRITION/IRON-productType",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Autrin XT",
+        "composition": "Iron-containing combination; check pack for full composition",
+        "type": "Combination",
+        "source": "https://www.1mg.com/categories/vitamins-nutrition/iron-428",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Calcium": {
+    "note": "Calcitriol in Gemcal is active vitamin D and is not interchangeable with cholecalciferol; monitor calcium when indicated.",
+    "products": [
+      {
+        "brand": "Shelcal 500",
+        "composition": "Calcium + vitamin D3",
+        "type": "Combination",
+        "source": "https://www.1mg.com/categories/calcium-94",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Cipcal 500",
+        "composition": "Calcium + vitamin D3",
+        "type": "Combination",
+        "source": "https://www.1mg.com/categories/calcium-94",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Calcimax Forte+",
+        "composition": "Calcium + vitamin D3 + magnesium + zinc",
+        "type": "Combination",
+        "source": "https://www.1mg.com/categories/calcium-94",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Gemcal",
+        "composition": "Calcium carbonate + calcitriol + zinc",
+        "type": "Prescription combination with active vitamin D",
+        "source": "https://www.1mg.com/drugs-therapeutic-classes/calcium-products-345",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Tata 1mg Calcium & Vitamin D3",
+        "composition": "Calcium + vitamin D3 + magnesium + zinc + alfalfa",
+        "type": "Combination",
+        "source": "https://www.1mg.com/categories/calcium-94",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Vitamin C": {
+    "note": "",
+    "products": [
+      {
+        "brand": "Limcee 500",
+        "composition": "Ascorbic acid 500 mg",
+        "type": "Vitamin C",
+        "source": "https://www.apollopharmacy.in/HEALTH%20%26%20NUTRITION/VITAMIN%20C-productType",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Celin 500",
+        "composition": "Ascorbic acid 500 mg",
+        "type": "Vitamin C",
+        "source": "https://www.apollopharmacy.in/HEALTH%20%26%20NUTRITION/VITAMIN%20C-productType",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Zinc": {
+    "note": "These five are combination supplements; elemental nutrient doses vary and may be below deficiency-treatment doses.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Magnesium": {
+    "note": "These five are combination supplements; elemental nutrient doses vary and may be below deficiency-treatment doses.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Iodine": {
+    "note": "Combination sources, not standalone potassium iodide. Do not self-treat thyroid disease with iodine.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Kivit Z",
+        "composition": "Ginseng + multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and zinc",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.truemeds.in/medicine/kivit-z-capsule-10-tm-cacr1-007569",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit tablet",
+        "composition": "Multivitamins + minerals including iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-tablet-with-multivitamin-multimineral-grape-seed-extract-otc111998",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Selenium": {
+    "note": "Combination sources; avoid duplicate selenium intake.",
+    "products": [
+      {
+        "brand": "ALLVELL Z",
+        "composition": "Multivitamins and minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, zinc, magnesium, iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://greencrossindia.com/p/allvell-z-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Seval",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, magnesium, iodine, potassium and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.pingmedoc.com/pharmacy/medicine/seval-tab-15-s",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit W",
+        "composition": "Multivitamins/minerals including A, B1, B2, B6, B12, C, D3, E, folic acid, iodine, magnesium, zinc and selenium; additional ingredients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Supradyn Daily",
+        "composition": "A, B-complex, C, D3, E, folic acid, magnesium, zinc, selenium and other micronutrients",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://wellify.in/products/supradyn-daily-multivitamin-tablet",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Zincovit tablet",
+        "composition": "Multivitamins + minerals including iodine and selenium",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-tablet-with-multivitamin-multimineral-grape-seed-extract-otc111998",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Omega-3 (fish oil)": {
+    "note": "OTC fish oils are not interchangeable with prescription products for severe hypertriglyceridemia.",
+    "products": [
+      {
+        "brand": "TrueBasics Omega 3 Fish Oil",
+        "composition": "Fish-derived EPA/DHA; confirm EPA+DHA amount per serving",
+        "type": "Fish oil supplement",
+        "source": "https://www.unboxhealth.in/explore/category-list/omega-3-supplements/5c004b85-cf03-4214-9870-5bd77a1d1031",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Neuherbs Deep Sea Omega 3",
+        "composition": "Fish-derived EPA/DHA; confirm EPA+DHA amount per serving",
+        "type": "Fish oil supplement",
+        "source": "https://www.unboxhealth.in/explore/category-list/omega-3-supplements/5c004b85-cf03-4214-9870-5bd77a1d1031",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Tata 1mg Salmon Omega 3",
+        "composition": "Fish-derived EPA/DHA; confirm EPA+DHA amount per serving",
+        "type": "Fish oil supplement",
+        "source": "https://www.unboxhealth.in/explore/category-list/omega-3-supplements/5c004b85-cf03-4214-9870-5bd77a1d1031",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "HealthKart HK Vitals Fish Oil",
+        "composition": "Fish-derived EPA/DHA; confirm EPA+DHA amount per serving",
+        "type": "Fish oil supplement",
+        "source": "https://www.unboxhealth.in/explore/category-list/omega-3-supplements/5c004b85-cf03-4214-9870-5bd77a1d1031",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Wellbeing Nutrition Triple Strength Omega-3",
+        "composition": "Fish-derived EPA/DHA; confirm EPA+DHA amount per serving",
+        "type": "Fish oil supplement",
+        "source": "https://www.unboxhealth.in/explore/category-list/omega-3-supplements/5c004b85-cf03-4214-9870-5bd77a1d1031",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Omega-3 (algae / vegan)": {
+    "note": "Plant ALA is not equivalent to preformed EPA/DHA; check the actual formulation.",
+    "products": [
+      {
+        "brand": "Unived Ovegha",
+        "composition": "Algal DHA and/or EPA; verify pack content and vegan excipients",
+        "type": "Algal omega-3 supplement",
+        "source": "https://www.unboxhealth.in/explore/category-list/omega-3-supplements/5c004b85-cf03-4214-9870-5bd77a1d1031",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Nutrova Complete Omega 3",
+        "composition": "Algal DHA and/or EPA; verify pack content and vegan excipients",
+        "type": "Algal omega-3 supplement",
+        "source": "https://www.unboxhealth.in/explore/category-list/omega-3-supplements/5c004b85-cf03-4214-9870-5bd77a1d1031",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Origins Nutra Algal Omega-3",
+        "composition": "Algal DHA and/or EPA; verify pack content and vegan excipients",
+        "type": "Algal omega-3 supplement",
+        "source": "https://www.unboxhealth.in/explore/category-list/omega-3-supplements/5c004b85-cf03-4214-9870-5bd77a1d1031",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "WOW Life Science Algae-Rich Vegan Omega-3",
+        "composition": "Algal DHA and/or EPA; verify pack content and vegan excipients",
+        "type": "Algal omega-3 supplement",
+        "source": "https://www.unboxhealth.in/explore/category-list/omega-3-supplements/5c004b85-cf03-4214-9870-5bd77a1d1031",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Carbamide Forte Veg Omega-3",
+        "composition": "Algal DHA and/or EPA; verify pack content and vegan excipients",
+        "type": "Algal omega-3 supplement",
+        "source": "https://www.unboxhealth.in/explore/category-list/omega-3-supplements/5c004b85-cf03-4214-9870-5bd77a1d1031",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Potassium": {
+    "note": "Potassium requires renal function and serum potassium monitoring. Injectable concentrates are hospital-only and must never be self-administered or given undiluted IV.",
+    "products": [
+      {
+        "brand": "Potklor",
+        "composition": "Potassium chloride oral solution",
+        "type": "Prescription oral electrolyte",
+        "source": "https://www.1mg.com/generics/potassium-chloride-210536",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Potcl",
+        "composition": "Potassium chloride; confirm injectable presentation",
+        "type": "Hospital-use electrolyte",
+        "source": "https://www.1mg.com/generics/potassium-chloride-210536",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Chlorpot",
+        "composition": "Potassium chloride 150 mg/ml injection",
+        "type": "Hospital-use injectable concentrate",
+        "source": "https://www.1mg.com/generics/potassium-chloride-210536",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Potram",
+        "composition": "Potassium chloride; confirm injectable presentation",
+        "type": "Hospital-use electrolyte",
+        "source": "https://www.1mg.com/generics/potassium-chloride-210536",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Addkay",
+        "composition": "Potassium chloride; confirm formulation",
+        "type": "Prescription electrolyte",
+        "source": "https://www.1mg.com/generics/potassium-chloride-210536",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Retinal supplements / AREDS2-related": {
+    "note": "These five related India-market products are not five validated AREDS2 formulas. The reviewed Indian formulations differ from trial doses. Ophthalmologist selection and exact-label comparison are necessary; avoid beta-carotene in smokers.",
+    "products": [
+      {
+        "brand": "New I-Site",
+        "composition": "Lutein + vitamins/minerals; composition differs from AREDS2",
+        "type": "Related eye-health combination; NOT confirmed AREDS2-equivalent",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9359299/",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Macugold Plus",
+        "composition": "Lutein/zeaxanthin-containing combination",
+        "type": "Related eye-health combination; NOT confirmed AREDS2-equivalent",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9359299/",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Ocugold Plus",
+        "composition": "Zeaxanthin/astaxanthin-containing combination",
+        "type": "Related eye-health combination; NOT confirmed AREDS2-equivalent",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9359299/",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Neosight",
+        "composition": "Lutein + zeaxanthin + lycopene",
+        "type": "Related eye-health combination; NOT confirmed AREDS2-equivalent",
+        "source": "https://jantapharmacy.co.in/ingredients/lutein",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Ocuvite",
+        "composition": "Eye-health vitamin/mineral formulation; verify exact variant",
+        "type": "Related eye-health combination; NOT confirmed AREDS2-equivalent",
+        "source": "https://jantapharmacy.co.in/ingredients/lutein",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  },
+  "Vitamin K": {
+    "note": "Vitamin K can interfere with warfarin. Keep intake consistent and discuss any supplement change with the treating clinician.",
+    "products": [
+      {
+        "brand": "Zincovit W",
+        "composition": "Vitamin K1 55 mcg + multivitamins/minerals",
+        "type": "Combination supplement; not a single-nutrient replacement",
+        "source": "https://www.1mg.com/otc/zincovit-w-multivitamin-multimineral-with-amino-acids-and-natural-extracts-promotes-overall-health-otc687124",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Magvion Plus",
+        "composition": "Magnesium oxide + D3 + K2-7",
+        "type": "Combination",
+        "source": "https://www.1mg.com/otc/magvion-plus-tablet-otc849709",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Decode Age DAKE",
+        "composition": "Vitamins D3 + A + K2 + E",
+        "type": "Combination",
+        "source": "https://www.1mg.com/categories/vitamin-supplements/vitamin-e-283",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "Calcimax K2",
+        "composition": "Calcium/bone-health combination with K2; check pack",
+        "type": "Combination",
+        "source": "https://pharmeasy.in/health-care/calcium-14330",
+        "reviewed": "2026-11-02"
+      },
+      {
+        "brand": "A to Z NS+",
+        "composition": "Multivitamin/mineral formulation with vitamin K; check pack",
+        "type": "Combination",
+        "source": "https://www.medkart.in/order-medicine/a-to-z-ns-plus-tablet-15s",
+        "reviewed": "2026-11-02"
+      }
+    ]
+  }
+}
